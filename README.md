@@ -10,7 +10,7 @@ les2 practise example
 - Lennart Verjans
 - Joppe Colla
 - Ersan Ascioglu
--
+- Christ Berberian
 - Jarne Creces
 - Ensar Isci
 - Matteo Belmans
