@@ -4,7 +4,7 @@ les2 practise example
 ## deelnemerslijst
 - Martijn Leemans
 - Lennart Verjans
--
+- Joppe Colla
 -
 -
 -
