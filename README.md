@@ -15,7 +15,7 @@ les2 practise example
 - Ensar Isci
 - Matteo Belmans
 - Rayan kandichy
--
+-Isaac Flipkens
 -
 -
 -
