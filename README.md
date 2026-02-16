@@ -1,9 +1,10 @@
-# webtech_example
+# webtech\_example
+
 les2 practise example
 
 ## deelnemerslijst
 - Martijn Leemans
--Tom Strauven
+- Tom Strauven
 - Arne Cannaerts
 - Dries Willekens
 - Lennart Verjans
@@ -26,3 +27,25 @@ les2 practise example
 -
 -
 
+* Martijn Leemans
+* Arne Cannaerts
+* Dries Willekens
+* Lennart Verjans
+* Joppe Colla
+* Ersan Ascioglu
+* 
+* Jarne Creces
+* Ensar Isci 2.0
+* 
+* Rayan kandichy
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
