@@ -26,4 +26,5 @@ les2 practise example
 - Szymon Lytek
 - Stefan Pavic
 - Bram Eygemans
+- Luuk Xu
 - Arne Palmans
