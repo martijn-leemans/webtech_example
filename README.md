@@ -16,6 +16,7 @@ les2 practise example
 - Matteo Belmans
 - Rayan kandichy
 - Isaac Flipkens
+- Rafael
+- Ties Berghs
 - Rafael Medina Perez
 - Jokke Martens
-
