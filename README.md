@@ -15,37 +15,6 @@ les2 practise example
 - Ensar Isci
 - Matteo Belmans
 - Rayan kandichy
--Isaac Flipkens
--
--
--Rafael
--
--
--
--
--
--
--
+- Isaac Flipkens
+- Rafael
 
-* Martijn Leemans
-* Arne Cannaerts
-* Dries Willekens
-* Lennart Verjans
-* Joppe Colla
-* Ersan Ascioglu
-* 
-* Jarne Creces
-* Ensar Isci 2.0
-* 
-* Rayan kandichy
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
