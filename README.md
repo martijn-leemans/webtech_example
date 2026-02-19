@@ -21,4 +21,5 @@ les2 practise example
 - Ties Berghs
 - Rafael Medina Perez
 - Jokke Martens
+- Jarne Lievens
 - Timmy Verrept
